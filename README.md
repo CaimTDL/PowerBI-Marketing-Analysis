@@ -1,15 +1,17 @@
-#Sales Data Analysis with Power BI
+# Sales Data Analysis with Power BI
 
 This project focuses on analyzing a company's sales data using Power BI to provide actionable insights for the marketing team. The goal is to understand customer profiles, purchasing behaviors, and sales distribution across different channels to optimize marketing strategies and drive business growth.
 
-#Objectives
+## Objectives
 
     Identify key customer segments and their purchasing patterns.
     Understand the relationship between customer demographics and sales performance.
     Highlight sales performance across different channels and regions.
 
-#Key Insights
-1. Customer Overview
+### Key Insights
+1- Customer Overview
+
+
 ![image](https://github.com/user-attachments/assets/b30d5129-4641-4726-9a74-d024521fd35f)
 
     The company has 1,999 customers worldwide.
@@ -25,7 +27,8 @@ This project focuses on analyzing a company's sales data using Power BI to provi
         522 are married
         280 are divorced
 
-2. Purchasing Patterns
+### 2- Purchasing Patterns
+
 ![image](https://github.com/user-attachments/assets/87f52716-d6c3-4331-89a2-8e72cc43154f)
 
     Annual Salary: Higher salaries correlate with higher purchasing levels.
@@ -35,7 +38,8 @@ This project focuses on analyzing a company's sales data using Power BI to provi
         A notable difference: Customers with 1 teenager tend to purchase slightly more than those with 1 child.
     Key Demographic: Single customers with higher education are the primary target audience.
 
-3. Campaign Effectiveness and Regional Insights
+### 3- Campaign Effectiveness and Regional Insights
+
 ![image](https://github.com/user-attachments/assets/1df02160-6c73-4ce8-ad74-ddd73dcde31c)
 
     Campaign Performance: 16.01% of total sales were driven by marketing campaigns.
@@ -43,7 +47,7 @@ This project focuses on analyzing a company's sales data using Power BI to provi
         The United States is the top-performing country, with the highest sales, primarily in electronics and furniture categories.
 ![image](https://github.com/user-attachments/assets/2b440493-2ab4-4b94-a70b-0445fdd4ad6b)
 
-Tools Used
+## Tools Used
 
     Power BI: For data visualization and dashboard creation.
     Excel/CSV Files: For raw data import and cleaning.
